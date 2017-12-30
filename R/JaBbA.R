@@ -29,7 +29,6 @@
 #' @import Matrix
 #' @import parallel
 #' @import data.table
-#' @import Rcplex
 #' @import DNAcopy
 #' @import gUtils
 
